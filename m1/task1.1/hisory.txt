@@ -1,0 +1,435 @@
+    1  pwd
+    2  cd ..
+    3  ls
+    4  cd ..
+    5  ls
+    6  git
+    7  ls
+    8  cd ..
+    9  cd ..
+   10  ls
+   11  cd ..
+   12  ls
+   13  ls
+   14  pwd
+   15  pwd
+   16  ls
+   17  mkdir devops
+   18  mkdir gitrepo
+   19  cd devops/
+   20  mkdir gitrepo
+   21  ls
+   22  cd gitrepo/
+   23  gitk
+   24  git
+   25  git init
+   26  gitk
+   27  git status
+   28  git status
+   29  git add text.txt
+   30  git status
+   31  git commit -m "First commit"
+   32  gitk
+   33  git config --global user.email "bodiatatuh555@gmail.com"
+   34   git config --global user.name "btatukh"
+   35  git commit -m "First commit"
+   36  gitk
+   37  git status
+   38  git add text.txt
+   39  git status
+   40  git commit -m "Added 6 number"
+   41  gitk
+   42  git status
+   43  git checkout .
+   44  gitk
+   45  git status
+   46  git add secondfile.txt secondfile.txt 
+   47  git status
+   48  git commit -m "added second file"
+   49  gitk
+   50  git status
+   51  git add secondfile.txt
+   52  git status
+   53  git commit -m "content for second file"
+   54  git status
+   55  git status
+   56  gitk
+   57  gitk
+   58  git status
+   59  git add  gitcommands.txt 
+   60  git commit -m"added git commands"
+   61  gitk
+   62  git status
+   63  git checkout .
+   64  git status
+   65  git checkount HEAD~3
+   66  git checkout HEAD~3
+   67  git status
+   68  gitk
+   69  git checkout .
+   70  git status
+   71  git checkout master
+   72  git --help
+   73  ls
+   74  dir
+   75  git status
+   76  exit
+   77  git status
+   78  pwd
+   79  ls
+   80  cd drvops
+   81  git --histori
+   82  git history
+   83  ls
+   84  cd dev
+   85  ls
+   86  cd ..
+   87  ls
+   88  git find devops
+   89  find devops
+   90  find
+   91  clean
+   92  claen
+   93  git clean
+   94  claen
+   95  clean
+   96  exit
+   97  find /d
+   98  find /d/devops
+   99  ls
+  100  cd gitrepo
+  101  ls
+  102  git status
+  103  gitk
+  104  git add filename 
+  105  id pop.txt
+  106  gitk[
+  107  gitkld
+  108  git add lol
+  109  git stsstus
+  110  fit status
+  111  git status
+  112  exit
+  113  hello
+  114  git status
+  115  git status
+  116  git
+  117  gir status
+  118  git status
+  119  git status
+  120  gitk
+  121  git add hii.txt
+  122  ls
+  123  git status
+  124  git commit -m"to prosto shok"
+  125  gitk
+  126  git status
+  127  git add too.txt one.txt
+  128  git status
+  129  git commit -m"to dva"
+  130  gitk
+  131  git checkout
+  132  git checkout
+  133  git status
+  134  git checkout .
+  135  git status
+  136  git init
+  137  git clone
+  138  git clone
+  139  git clone https://github.com/bodiaka/myfirst.git
+  140  git status
+  141  cd myfirst
+  142  git status
+  143  git add lolka.txt
+  144  git
+  145  git commit -m "created file"
+  146  fitk
+  147  gitk
+  148  git push origen
+  149  git push orign
+  150  git push origin/main
+  151  git push origin\main
+  152  git push origin main
+  153  git pull
+  154  git add lolka.txt
+  155  git commit -m "added zzzzzzzz"
+  156  git push origin main
+  157  git reset --hard origin/master
+  158  git reset --hard origmaster
+  159  git reset --hard origin/main
+  160  status
+  161  gitk
+  162  git oull
+  163  git pull
+  164  git branch newwork
+  165  git checkout newwork
+  166  git add .
+  167  git commit -m "added more lines"
+  168  git push origin newwork
+  169  git checkout main
+  170  git pull
+  171  gitk
+  172  git pull
+  173  git status
+  174  git add 10.12
+  175  gitk
+  176  git commit -m "kodpitin"
+  177  git add 10.12.txt
+  178  git commit -m "kodpyton"
+  179  gitk
+  180  git push -u origin main
+  181  git status
+  182  git push -u origin main
+  183  \
+  184  git pull origin main
+  185  git status
+  186  git push -u origin 
+  187  $ git checkout 
+  188  $ git checkout dev
+  189  $ git checkout main
+  190  $ git checkout origin
+  191  gitk
+  192  git pull origin 
+  193  git commit -m "10.12.txt"
+  194  git add 10.12.txt
+  195  git commit -m "10.12.txt"
+  196  git pull origin 
+  197  gitk
+  198  git pull origin 
+  199  git push -u origin 
+  200  gitk
+  201  git checkout main
+  202  git status
+  203  dir
+  204  git clonr
+  205  git clone
+  206  git pull
+  207  gitk
+  208  git clone 
+  209  git clone https://github.com/bodiaka/myfirst.git
+  210  git pull
+  211  git branch files
+  212  git checkout files
+  213  gitk
+  214  mkdir filetwoo
+  215  ls
+  216  rmdir filetwoo
+  217  ls
+  218  mkdir file.two
+  219  ls
+  220  cd file.two
+  221  cd ..
+  222  cd file.one
+  223  cd file.two
+  224  toch file
+  225  touch file
+  226  ls
+  227  nano file
+  228  git status
+  229  cd ..
+  230  git status
+  231  git add file.two
+  232  git commit -m file.two
+  233  git push
+  234  git push origin files
+  235  gitk
+  236  fit status
+  237  git status
+  238  git add
+  239  git add .
+  240  git commit -m
+  241  git commit -a
+  242  git commit -m clean
+  243  gitk
+  244  git push 
+  245  git push files
+  246  git push origin files 
+  247  git push origin main
+  248  git checkout main
+  249  git pull
+  250  gitk
+  251  ді
+  252  ls
+  253  ls
+  254  cd G
+  255  git status
+  256  git status
+  257  git merge --exit
+  258  git merge --abort
+  259  del .git\index
+  260  rm -f .git/index
+  261  git reset
+  262  git merge master
+  263  git reset --mixed HEAD
+  264  rm .git/ORIG_HEAD
+  265  git reset
+  266  git status
+  267  git checkout .
+  268  git merge master
+  269  git status
+  270  git commit -m"resolved conflicts"
+  271  git add .
+  272  git commit -m"resolved conflicts"
+  273  git push
+  274  git push origin firstbranch
+  275  git checkout master
+  276  git pull
+  277  git add .
+  278  git commit -m"added sometext.txt"
+  279  git push
+  280  git checkout -b v1
+  281  git add .
+  282  git commit -m"olen version"
+  283  git checkout master
+  284  git checkout -b v2
+  285  git add .
+  286  git commit -m"tulen version"
+  287  git checkout master
+  288  gitk
+  289  git status
+  290  git branch
+  291  gitk
+  292  git megre v1
+  293  git merge
+  294  git merge v1
+  295  gitk
+  296  git checkout v2
+  297  gik
+  298  gitk
+  299  git checkout master
+  300  git merge v2
+  301  git commit -m"cofl resolved"
+  302  git add .
+  303  git commit -m"cofl resolved"
+  304  gitk
+  305  clone git@github.com:bodiaka/DevOps_online_Lviv_2020.git
+  306  clon git@github.com:bodiaka/DevOps_online_Lviv_2020.git
+  307  git init
+  308  git add.
+  309  git add .
+  310  git commit -m "comentari"
+  311  gitk
+  312  git@github.com:bodiaka/DevOps_online_Lviv_2020.git
+  313  gitt add git@github.com:bodiaka/DevOps_online_Lviv_2020.git
+  314  git clone https://github.com/bodiaka/DevOps_online_Lviv_2020.git
+  315  gitk
+  316  git mkdir
+  317  mkdir
+  318  gi status
+  319  git status 
+  320  git add .
+  321  git commit -m"test"
+  322  git add DevOps_online_Lviv_2020/
+  323  git status
+  324  git init 
+  325  git init 
+  326  git status
+  327  rm -rf .git
+  328  git clone https://github.com/bodiaka/DevOps_online_Lviv_2020Q42021Q1.git
+  329  git status
+  330  cd DevOps_online_Lviv_2020Q42021Q1/
+  331  git stattus
+  332   mkdir m1
+  333  ls
+  334  cd m1
+  335  mkdir task1.1
+  336  cd task1.1/
+  337  touch readme.txt
+  338  ls
+  339  git status
+  340  git add .
+  341  git status 
+  342  git commit -m"init commit"
+  343  git branch develop
+  344  gitk
+  345  git checkout develop 
+  346  touch index.html
+  347  ls
+  348  git commit -m"add index.html"
+  349  git add .
+  350  git commit -m"add index.html"
+  351  git branch images
+  352  git checkout images 
+  353  ls
+  354  git status
+  355  git branch
+  356  ls
+  357  mkdir imeges
+  358  git status 
+  359  git add /
+  360  git add .
+  361  git status 
+  362  git commit -m"add photos"
+  363  git status
+  364  ls
+  365  nano index.html 
+  366  nano index.html 
+  367  nano index.html 
+  368  nano index.html 
+  369  git status
+  370  git add index.html 
+  371  git status
+  372  git commit -m"add photos into index.html"
+  373  git push
+  374      git push --set-upstream origin images
+  375  git checkout develop 
+  376      git push --set-upstream origin develop
+  377  git branch styles
+  378  git checkout styles
+  379  git checkout 
+  380  git branch
+  381  mkdir styles
+  382  ls
+  383  cd styles/
+  384  touch source.css
+  385  ls
+  386  git status
+  387  git add .
+  388  git commit -m"create source.css"
+  389  git push origin styles
+  390  nano source.css 
+  391  ls
+  392  cd ..
+  393  ls
+  394  nano index.html 
+  395  nano index.html 
+  396  git push origin styles 
+  397  git status
+  398  git add .
+  399  git commit -m"add styles into html"
+  400  git push origin styles 
+  401  git checkout develop 
+  402  git branch 
+  403  git merge images
+  404  git merge styles
+  405  git status 
+  406  git add .
+  407  git commit -m"resolve conflicts in index.html"
+  408  git push origin develop 
+  409  git checkout master 
+  410  git push origin master
+  411  git merge develop 
+  412  git push origin master
+  413  gitk
+  414  git reflog
+  415  git log
+  416  git status 
+  417  git add . 
+  418  git commit -m"save logs"
+  419  git add .
+  420  fit status
+  421  git status
+  422  git add ../../task1.1_GIT.txt
+  423  git status
+  424  git commit -m"save logs"
+  425  git push origin --all
+  426  touch readme.md 
+  427  nano readme.md
+  428  nano readme.md
+  429  git status
+  430  git add .
+  431  git status
+  432  git push origin --all
+  433  git commit -m"wrote file readme"
+  434  git push origin --all
+  435  history >> hisory.txt
